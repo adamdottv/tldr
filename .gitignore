@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+
+# sst
+.sst
+.build
+
+# opennext
+.open-next
+
+# misc
+.DS_Store
+
+# local env files
+.env*.local
+.env
+
+dist
+packages/slack-app/package
+packages/slack-app/.slack/apps.dev.json
+
